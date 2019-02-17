@@ -10,4 +10,18 @@ call the methods and logic of the class library.
 - The GUI
   - The solution has the GUI project set as the start up project.
   - Simply click run from visual studio
-  - 
+  - Once the application opens, click the browse button and select the text file that you would like to read from
+  - click run
+  - once the data has loaded the output will be shown below the file path bar
+
+- The Console App(VS Debug)
+  - The solution has the GUI project set as the start up project.
+  - from the run menu in visual studio, select TextReaderConsole
+  - Click run
+  - The program will run and in debug mode will by default select WarAndPeace.txt as the file to read
+  - once the data has loaded the output will be shown in the open command window
+
+- The Console App(Command Line)
+  - Open a command line in the same folder as the TextReaderConsole project. eg: .\TextReader-master\TextReaderConsole
+  - run command dotnet run "Path\To\File"
+  
