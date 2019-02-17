@@ -22,6 +22,6 @@ call the methods and logic of the class library.
   - once the data has loaded the output will be shown in the open command window
 
 - The Console App(Command Line)
-  - Open a command line in the same folder as the TextReaderConsole project. eg: .\TextReader-master\TextReaderConsole
-  - run command dotnet run "Path\To\File"
+  - Open a command line in the same folder as the TextReaderConsole project. eg: .\TextReader-master\TextReaderConsole\bin\debug\
+  - run command TextReaderConsole.exe "Path\To\File.txt
   
