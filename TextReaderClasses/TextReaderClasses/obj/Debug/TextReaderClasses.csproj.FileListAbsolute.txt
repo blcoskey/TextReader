@@ -1,0 +1,6 @@
+D:\Development\Source\Repos\TextReader\TextReaderClasses\TextReaderClasses\bin\Debug\TextReaderClasses.dll
+D:\Development\Source\Repos\TextReader\TextReaderClasses\TextReaderClasses\bin\Debug\TextReaderClasses.pdb
+D:\Development\Source\Repos\TextReader\TextReaderClasses\TextReaderClasses\obj\Debug\TextReaderClasses.csprojAssemblyReference.cache
+D:\Development\Source\Repos\TextReader\TextReaderClasses\TextReaderClasses\obj\Debug\TextReaderClasses.csproj.CoreCompileInputs.cache
+D:\Development\Source\Repos\TextReader\TextReaderClasses\TextReaderClasses\obj\Debug\TextReaderClasses.dll
+D:\Development\Source\Repos\TextReader\TextReaderClasses\TextReaderClasses\obj\Debug\TextReaderClasses.pdb

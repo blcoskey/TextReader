@@ -1,0 +1,13 @@
+D:\Development\Source\Repos\TextReader\TextReaderGUI\bin\Debug\TextReaderGUI.exe.config
+D:\Development\Source\Repos\TextReader\TextReaderGUI\bin\Debug\TextReaderGUI.exe
+D:\Development\Source\Repos\TextReader\TextReaderGUI\bin\Debug\TextReaderGUI.pdb
+D:\Development\Source\Repos\TextReader\TextReaderGUI\obj\Debug\TextReaderGUI.csprojAssemblyReference.cache
+D:\Development\Source\Repos\TextReader\TextReaderGUI\obj\Debug\TextReaderGUI.Properties.Resources.resources
+D:\Development\Source\Repos\TextReader\TextReaderGUI\obj\Debug\TextReaderGUI.csproj.GenerateResource.cache
+D:\Development\Source\Repos\TextReader\TextReaderGUI\obj\Debug\TextReaderGUI.csproj.CoreCompileInputs.cache
+D:\Development\Source\Repos\TextReader\TextReaderGUI\obj\Debug\TextReaderGUI.exe
+D:\Development\Source\Repos\TextReader\TextReaderGUI\obj\Debug\TextReaderGUI.pdb
+D:\Development\Source\Repos\TextReader\TextReaderGUI\bin\Debug\TextReaderClasses.dll
+D:\Development\Source\Repos\TextReader\TextReaderGUI\bin\Debug\TextReaderClasses.pdb
+D:\Development\Source\Repos\TextReader\TextReaderGUI\obj\Debug\TextReaderGUI.Main.resources
+D:\Development\Source\Repos\TextReader\TextReaderGUI\obj\Debug\TextReaderGUI.csproj.CopyComplete

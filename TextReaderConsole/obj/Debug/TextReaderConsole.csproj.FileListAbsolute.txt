@@ -1,0 +1,10 @@
+D:\Development\Source\Repos\TextReader\TextReaderConsole\bin\Debug\TextReaderConsole.exe.config
+D:\Development\Source\Repos\TextReader\TextReaderConsole\bin\Debug\TextReaderConsole.exe
+D:\Development\Source\Repos\TextReader\TextReaderConsole\bin\Debug\TextReaderConsole.pdb
+D:\Development\Source\Repos\TextReader\TextReaderConsole\bin\Debug\TextReaderClasses.dll
+D:\Development\Source\Repos\TextReader\TextReaderConsole\bin\Debug\TextReaderClasses.pdb
+D:\Development\Source\Repos\TextReader\TextReaderConsole\obj\Debug\TextReaderConsole.csprojAssemblyReference.cache
+D:\Development\Source\Repos\TextReader\TextReaderConsole\obj\Debug\TextReaderConsole.csproj.CoreCompileInputs.cache
+D:\Development\Source\Repos\TextReader\TextReaderConsole\obj\Debug\TextReaderConsole.csproj.CopyComplete
+D:\Development\Source\Repos\TextReader\TextReaderConsole\obj\Debug\TextReaderConsole.exe
+D:\Development\Source\Repos\TextReader\TextReaderConsole\obj\Debug\TextReaderConsole.pdb
