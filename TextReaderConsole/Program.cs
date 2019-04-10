@@ -5,13 +5,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TextReaderClasses.Utilities;
+using System.Diagnostics;
 
 namespace TextReaderConsole
 {
     class Program
     {
         static void Main(string[] args)
-        {
+        {            
+            Stopwatch stopwatch = new Stopwatch();
             if (args.Length == 0)
             {
                 Console.WriteLine("Please enter file path");
@@ -45,11 +47,14 @@ namespace TextReaderConsole
                     Environment.Exit(0);
                 }
 
+                stopwatch.Start();
                 TextReaderClasses.Utilities.TextReader reader = new TextReaderClasses.Utilities.TextReader(new ScrabbleScore());
 
                 var words = reader.GetWords(lines);
 
                 var output = reader.CalculateOutput(words);
+
+                stopwatch.Stop();
 
                 Console.WriteLine(
                     "Most Frequent Word: " +
